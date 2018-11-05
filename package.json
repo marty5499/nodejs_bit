@@ -11,6 +11,6 @@
   "dependencies": {
     "serialport": "^7.0.2",
     "webduino-bit-modules": "^1.0.0",
-    "webduino-blockly": "0.0.12",
+    "webduino-blockly": "0.0.12"
   }
 }
