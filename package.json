@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_bit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "m.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serialport": "^7.0.2",
+    "webduino-bit-modules": "^1.0.0",
+    "webduino-blockly": "0.0.12",
+  }
+}
